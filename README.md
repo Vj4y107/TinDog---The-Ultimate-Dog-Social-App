@@ -1,5 +1,8 @@
 # TinDog Project
 
+Description:
+TinDog is a fun and engaging web application, inspired by TikTok, specifically designed for dogs and their owners. Built with Bootstrap, HTML, and CSS, TinDog provides a seamless and responsive user experience. Discover, share, and enjoy adorable dog moments with TinDog
+
 ## SVGs:
 
 Apple Logo:
